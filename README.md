@@ -3,7 +3,7 @@
 • Student model: ResNet18
 • Dataset: Cifar10
 ## 兩種蒸餾方法
-Response-based distillation 
+Response-based distillation 、
 Feature-based distillation 
 ## report內容大綱
 1. 比較學生模型train from scratch和經過2種方法蒸餾後的結果和分析
